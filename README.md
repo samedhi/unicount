@@ -12,3 +12,9 @@ $ wget https://raw.githubusercontent.com/samedhi/unicount/main/hamlet.txt
 $ python uniqcount.py hamlet.txt
 ```
 
+## Reference
+
+* [Computer Scientists Invent an Efficient New Way to Count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
+* [Notes by Knuth](https://cs.stanford.edu/~knuth/papers/cvm-note.pdf)
+* [Presentation Slides](https://www.cs.toronto.edu/~meel/Slides/meel-distinct.pdf)
+* [arxis Paper](https://arxiv.org/pdf/2301.10191)
