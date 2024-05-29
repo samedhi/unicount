@@ -7,7 +7,8 @@ I made it into a simple script so that you can pass it a file and it will provid
 ## Usage
 
 ```
-$ wget something
+$ wget https://raw.githubusercontent.com/samedhi/unicount/main/unicount.py
+$ wget https://raw.githubusercontent.com/samedhi/unicount/main/hamlet.txt
 $ python uniqcount.py hamlet.txt
 ```
 
